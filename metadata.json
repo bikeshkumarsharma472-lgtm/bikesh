@@ -1,0 +1,6 @@
+{
+  "name": "Bikesh",
+  "description": "A polished calling and chatting application for high-quality audio calls, video calls, and instant SMS chatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
